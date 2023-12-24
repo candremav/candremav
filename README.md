@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Carlos Andre</h1>
 <h3 align="center">An investment analyst with data analysis and data science skills</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=candremav&label=Profile%20views&color=0e75b6&style=flat" alt="candremav" /> </p>
+
+<p align="left"> <a href="https://twitter.com/candremv" target="blank"><img src="https://img.shields.io/twitter/follow/candremv?logo=twitter&style=for-the-badge" alt="candremv" /></a> </p>
+
 - 🔭 I’m currently working on **Financial Markets Reports and Analysis**
 
 - 🌱 I’m currently learning **Machine Learning applied to Financial Markets**
